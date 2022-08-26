@@ -9,3 +9,8 @@ color: green;
 p {
   color: blue;
 }
+
+form {
+  margin: 20px;
+  padding: 30px;
+}
